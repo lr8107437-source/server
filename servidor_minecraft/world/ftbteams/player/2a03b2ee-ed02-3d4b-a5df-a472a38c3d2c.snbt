@@ -1,0 +1,17 @@
+{
+	id: "2a03b2ee-ed02-3d4b-a5df-a472a38c3d2c"
+	type: "player"
+	player_name: "Falopa"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Falopa"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5995FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

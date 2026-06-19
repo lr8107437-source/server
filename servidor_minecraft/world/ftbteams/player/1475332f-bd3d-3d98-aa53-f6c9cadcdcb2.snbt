@@ -1,0 +1,19 @@
+{
+	id: "1475332f-bd3d-3d98-aa53-f6c9cadcdcb2"
+	type: "player"
+	player_name: "german1500"
+	ranks: {
+		1475332f-bd3d-3d98-aa53-f6c9cadcdcb2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "german1500"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

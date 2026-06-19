@@ -1,0 +1,19 @@
+{
+	id: "6138c446-1ca9-3904-a24c-73b2bda639da"
+	type: "player"
+	player_name: "coco_loco"
+	ranks: {
+		6138c446-1ca9-3904-a24c-73b2bda639da: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "coco_loco"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

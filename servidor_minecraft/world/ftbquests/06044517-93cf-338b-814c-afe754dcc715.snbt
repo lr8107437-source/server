@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "0604451793cf338b814cafe754dcc715"
+	name: "Nim#06044517"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "2a03b2eeed023d4ba5dfa472a38c3d2c"
+	name: "Falopa#2a03b2ee"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

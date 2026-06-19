@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "6138c4461ca93904a24c73b2bda639da"
+	name: "coco_loco#6138c446"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

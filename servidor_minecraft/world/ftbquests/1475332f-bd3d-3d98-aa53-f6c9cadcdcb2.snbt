@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "1475332fbd3d3d98aa53f6c9cadcdcb2"
+	name: "german1500#1475332f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

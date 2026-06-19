@@ -1,0 +1,17 @@
+{
+	id: "99574d39-e8e1-370d-ae76-0665c77d0452"
+	type: "player"
+	player_name: "SaloELMejor"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "SaloELMejor"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

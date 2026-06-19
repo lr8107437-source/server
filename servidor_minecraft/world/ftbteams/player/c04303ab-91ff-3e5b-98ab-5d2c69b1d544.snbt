@@ -1,0 +1,19 @@
+{
+	id: "c04303ab-91ff-3e5b-98ab-5d2c69b1d544"
+	type: "player"
+	player_name: "+"
+	ranks: {
+		c04303ab-91ff-3e5b-98ab-5d2c69b1d544: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "+"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6F59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

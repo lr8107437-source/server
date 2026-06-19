@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "c04303ab91ff3e5b98ab5d2c69b1d544"
+	name: "_#c04303ab"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

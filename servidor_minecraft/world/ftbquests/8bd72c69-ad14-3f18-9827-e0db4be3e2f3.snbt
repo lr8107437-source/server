@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "8bd72c69ad143f189827e0db4be3e2f3"
+	name: "laureeanoKy#8bd72c69"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

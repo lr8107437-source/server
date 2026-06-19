@@ -1,0 +1,19 @@
+{
+	id: "85be9577-a772-3c16-b822-ac98c1356997"
+	type: "player"
+	player_name: "creisipapu"
+	ranks: {
+		85be9577-a772-3c16-b822-ac98c1356997: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "creisipapu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C4FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

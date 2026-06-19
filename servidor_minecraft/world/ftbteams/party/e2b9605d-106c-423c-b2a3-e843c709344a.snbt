@@ -1,0 +1,24 @@
+{
+	id: "e2b9605d-106c-423c-b2a3-e843c709344a"
+	type: "party"
+	owner: "99574d39-e8e1-370d-ae76-0665c77d0452"
+	ranks: {
+		06044517-93cf-338b-814c-afe754dcc715: "member"
+		99574d39-e8e1-370d-ae76-0665c77d0452: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Seguidores del Salismo"
+		"ftbteams:description": "Adorar a Salo"
+		"ftbteams:color": "#EFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781390393158L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"SaloELMejor\"],\"color\":\"yellow\"}" }
+		{ from: "99574d39-e8e1-370d-ae76-0665c77d0452", date: 1781391707770L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Nim\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781391710590L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Nim\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "8bd72c69-ad14-3f18-9827-e0db4be3e2f3"
+	type: "player"
+	player_name: "laureeanoKy"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "laureeanoKy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9059FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

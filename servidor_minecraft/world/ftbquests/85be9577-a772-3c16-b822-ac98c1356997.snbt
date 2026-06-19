@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "85be9577a7723c16b822ac98c1356997"
+	name: "creisipapu#85be9577"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

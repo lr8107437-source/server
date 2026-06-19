@@ -1,0 +1,19 @@
+{
+	id: "2046eabc-97e5-3db9-af35-0e7056c8a483"
+	type: "player"
+	player_name: "TAXXT"
+	ranks: {
+		2046eabc-97e5-3db9-af35-0e7056c8a483: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TAXXT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#88FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

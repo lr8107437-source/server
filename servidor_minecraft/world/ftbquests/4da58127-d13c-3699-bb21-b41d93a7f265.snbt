@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "4da58127d13c3699bb21b41d93a7f265"
+	name: "endrxlol#4da58127"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

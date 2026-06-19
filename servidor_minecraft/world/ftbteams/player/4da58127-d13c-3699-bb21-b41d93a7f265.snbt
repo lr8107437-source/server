@@ -1,0 +1,19 @@
+{
+	id: "4da58127-d13c-3699-bb21-b41d93a7f265"
+	type: "player"
+	player_name: "endrxlol"
+	ranks: {
+		4da58127-d13c-3699-bb21-b41d93a7f265: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "endrxlol"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [ ]
+	extra: { }
+}

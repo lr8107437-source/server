@@ -1,0 +1,31 @@
+{
+	id: "8b828a7d-066f-4604-946e-0a06beefe1f6"
+	type: "party"
+	owner: "2fd60879-a146-3b07-9c36-5153ad2a35ce"
+	ranks: {
+		2a03b2ee-ed02-3d4b-a5df-a472a38c3d2c: "member"
+		8bd72c69-ad14-3f18-9827-e0db4be3e2f3: "member"
+		2fd60879-a146-3b07-9c36-5153ad2a35ce: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "EGGTEAM"
+		"ftbteams:description": "salo el mejor chupando penes"
+		"ftbteams:color": "#6459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbteams:lives_remaining": 0
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781390378348L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"PAPU\"],\"color\":\"yellow\"}" }
+		{ from: "2fd60879-a146-3b07-9c36-5153ad2a35ce", date: 1781390393603L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"laureeanoKy\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "2fd60879-a146-3b07-9c36-5153ad2a35ce", date: 1781390393603L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Falopa\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781390402028L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Falopa\"],\"color\":\"green\"}" }
+		{ from: "2fd60879-a146-3b07-9c36-5153ad2a35ce", date: 1781390418323L, text: "\"hola falopa\"" }
+		{ from: "2fd60879-a146-3b07-9c36-5153ad2a35ce", date: 1781390419870L, text: "\"como estas\"" }
+		{ from: "2fd60879-a146-3b07-9c36-5153ad2a35ce", date: 1781396132529L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"laureeanoKy\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1781396135754L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"laureeanoKy\"],\"color\":\"green\"}" }
+		{ from: "2fd60879-a146-3b07-9c36-5153ad2a35ce", date: 1781396154793L, text: "\"hola laureano\"" }
+	]
+	extra: { }
+}

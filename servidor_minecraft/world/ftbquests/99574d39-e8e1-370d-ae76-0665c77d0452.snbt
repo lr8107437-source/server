@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "99574d39e8e1370dae760665c77d0452"
+	name: "SaloELMejor#99574d39"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
